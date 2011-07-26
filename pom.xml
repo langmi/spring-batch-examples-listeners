@@ -27,7 +27,7 @@
 
     <name>listeners</name>
     <url>https://github.com/langmi/spring-batch-examples</url>
-    <description>Spring Batch Example: simple skip job</description>
+    <description>Spring Batch Example: listener examples</description>
     <licenses>
         <license>
             <name>Apache 2</name>
